@@ -1,11 +1,3 @@
-data/MNIST/raw/t10k-images-idx3-ubyte
-data/MNIST/raw/t10k-images-idx3-ubyte.gz
-data/MNIST/raw/t10k-labels-idx1-ubyte
-data/MNIST/raw/t10k-labels-idx1-ubyte.gz
-data/MNIST/raw/train-images-idx3-ubyte
-data/MNIST/raw/train-images-idx3-ubyte.gz
-data/MNIST/raw/train-labels-idx1-ubyte
-data/MNIST/raw/train-labels-idx1-ubyte.gz
 .vscode/settings.json
-__pycache__/DFF.cpython-38.pyc
-__pycache__/plot_examples.cpython-38.pyc
+data/**
+__pycache__/**
