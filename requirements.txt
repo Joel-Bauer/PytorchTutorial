@@ -1,5 +1,6 @@
 importlib
 matplotlib
+onnx
 torch
 torchvision
 torchsummary
